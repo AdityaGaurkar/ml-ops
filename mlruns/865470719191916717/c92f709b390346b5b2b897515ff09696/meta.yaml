@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/865470719191916717/c92f709b390346b5b2b897515ff09696/artifacts
+end_time: 1772836451287
+entry_point_name: ''
+experiment_id: '865470719191916717'
+lifecycle_stage: active
+run_id: c92f709b390346b5b2b897515ff09696
+run_name: ambitious-shad-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772836340745
+status: 4
+tags: []
+user_id: codespace

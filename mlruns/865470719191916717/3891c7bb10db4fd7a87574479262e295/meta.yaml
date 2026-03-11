@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/865470719191916717/3891c7bb10db4fd7a87574479262e295/artifacts
+end_time: 1772846907572
+entry_point_name: ''
+experiment_id: '865470719191916717'
+lifecycle_stage: active
+run_id: 3891c7bb10db4fd7a87574479262e295
+run_name: calm-snake-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772846759996
+status: 4
+tags: []
+user_id: codespace
